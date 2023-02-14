@@ -1,0 +1,117 @@
+.apollo{
+    width: 300px;
+    height:400px;
+    padding: 10px;
+    border:0.5px solid lightgray;
+    border-radius: 15px;
+    position:static;
+}
+.imenseWorld{
+    width: 300px;
+    height:400px;
+    padding: 10px;
+    border:0.5px solid lightgray;
+    border-radius: 15px;
+    position:static;
+}
+.tiger{
+    width: 300px;
+    height:500px;
+    padding: 10px;
+    border:0.5px solid lightgray;
+    border-radius: 15px;
+    position:static;
+}
+.descText {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: 10px;
+    border: 0.5px solid gray;
+    padding: 100px;
+
+}
+.audiobook{
+    border: 0.5px solid rgb(38, 61, 143);
+    border-radius: 8px;
+    padding: 12px;
+}
+.hardcover{
+    border: 0.5px solid rgb(38, 61, 143);
+    border-radius: 8px;
+    padding: 12px;
+}
+.ebook{
+    border: 0.5px solid rgb(38, 61, 143);
+    border-radius: 8px;
+    padding: 12px;
+}
+.bookItem{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    gap: 40px;
+    width: 80%;
+    padding: 0 10%;
+}
+.prices{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.names{
+    display:flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.options{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    p{        
+        background-image: linear-gradient(to right, #085078 0%, #85D8CE  51%, #085078  100%);
+        margin: 10px;
+        padding: 15px 45px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;            
+        box-shadow: 0 0 20px #eee;
+        border-radius: 10px;
+        display: block;
+        outline: auto;
+        cursor: pointer;
+        &:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+        }
+    }
+}
+.active{
+    background-image: linear-gradient(to right, #04c611 0%, #76f870  51%, #04c611  100%) !important;
+}
+.buy{
+        background-image: linear-gradient(to right, #085078 0%, #85D8CE  51%, #085078  100%);
+        margin: 10px;
+        padding: 15px 45px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;            
+        box-shadow: 0 0 20px #eee;
+        border-radius: 10px;
+        display: block;
+        outline: auto;
+        cursor: pointer;
+        &:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+}
+}
