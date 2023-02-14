@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bookshop.github.io/static/css/main.7669e5e0.css",
+    "main.js": "/bookshop.github.io/static/js/main.e2150bf5.js",
+    "static/js/787.a526e8cd.chunk.js": "/bookshop.github.io/static/js/787.a526e8cd.chunk.js",
+    "static/media/tiger.png": "/bookshop.github.io/static/media/tiger.54db9785cff5d6d7a060.png",
+    "static/media/animenseworld.jpeg": "/bookshop.github.io/static/media/animenseworld.ccc087a8386d07f8a2b7.jpeg",
+    "static/media/bookshop-logo.png": "/bookshop.github.io/static/media/bookshop-logo.e91ff750ccfdbdf4d956.png",
+    "static/media/apollo.jpeg": "/bookshop.github.io/static/media/apollo.3fd0a446f47806cba838.jpeg",
+    "static/media/shoppingcart2.png": "/bookshop.github.io/static/media/shoppingcart2.eca5ee08f37494f3f691.png",
+    "index.html": "/bookshop.github.io/index.html",
+    "main.7669e5e0.css.map": "/bookshop.github.io/static/css/main.7669e5e0.css.map",
+    "main.e2150bf5.js.map": "/bookshop.github.io/static/js/main.e2150bf5.js.map",
+    "787.a526e8cd.chunk.js.map": "/bookshop.github.io/static/js/787.a526e8cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7669e5e0.css",
+    "static/js/main.e2150bf5.js"
+  ]
+}
